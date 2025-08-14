@@ -1,0 +1,4 @@
+Topics discussed:
+1. Git HUB introduction and set up.
+2. Pushing the local branch(HP) from Git to GITHUB.
+3. Learning push and pull command for GIT-HUB.
