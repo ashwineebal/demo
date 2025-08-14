@@ -1,0 +1,4 @@
+Topics to be discussed
+1. First python program
+2. Print function.
+3. Basic mathematical operations in python.
